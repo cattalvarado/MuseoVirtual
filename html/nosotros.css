@@ -1,0 +1,28 @@
+.contenedor{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.imagen1{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    flex-direction: row;  
+}
+
+.imagen2{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    flex-direction: row;  
+}
+
+.imagen3{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    flex-direction: row;  
+}
+
+
